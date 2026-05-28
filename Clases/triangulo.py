@@ -1,3 +1,4 @@
+3
 lado_a = float(input("Lado A del triángulo: "))
 lado_b = float(input("Lado B del triángulo: "))
 lado_c = float(input("Lado C del triángulo: "))
